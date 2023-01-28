@@ -12,8 +12,8 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to my app!" />
-        <p className="www.datekno.com">
-          Get started by editing <code>pages/index.js</code>
+        <p className="Description">
+         <a href="https://www.datekno.com">DaTekno</a>
         </p>
       </main>
 
